@@ -4,13 +4,13 @@
 
 /* HEADER */
 #header-nav {
-  background-color: #f96;
+  background-color: #0099ff;
   border-radius: 0px;
   border: 0px;
 }
 
 .navbar-brand h1 { /* Restaurant name */
-  
+  color: #fff;
   margin-top: 0;
   margin-bottom: 0px;
   line-height: .1;
@@ -45,7 +45,12 @@
 	margin-bottom: 30px;
 }
 
-#item {
+.item {
 	background-color: #f9f;
+	padding: 5px;
+}
+
+.item-container {
+	padding-bottom: 30px; 
 }
 /* END BODY */
